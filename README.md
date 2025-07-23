@@ -7,12 +7,16 @@ My name is Santhosh, I’m an aspiring AI/ML Engineer passionate about building 
 🧠 Currently, I’m diving deep into the world of Generative AI — exploring models like GANs, VAEs, and transformers. I'm particularly interested in text-to-image synthesis and large language models like GPT and Stable Diffusion.
 
 ## 🛠️ Technical Skills
-Languages: Python, SQL
+Languages: Python, SQL, Java
 
 ML Tools & Libraries: Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, OpenCV
+
 Data Visualization: Matplotlib, Seaborn, Plotly
+
 AI Domains: Classification, NLP, Generative Models, Computer Vision
+
 Version Control: Git & GitHub
+
 Other Tools: Jupyter Notebook, Colab, VS Code, Streamlit
 
 ## 📌 Featured Projects
@@ -24,8 +28,11 @@ Working on building image generation models using GANs and experimenting with pr
 
 ## 🌱 Currently Learning
 Generative Adversarial Networks (GANs)
+
 Prompt Engineering & Fine-tuning LLMs
+
 Hugging Face Transformers
+
 AI Ethics & Explainability
 
 ## 📫 Let’s Connect
