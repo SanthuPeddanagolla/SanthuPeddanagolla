@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peddanagolla Santhosh</h1>
 <h3 align="center">I’m a passionate and detail-oriented Artificial Intelligence & Machine Learning student with hands-on experience in data analysis, predictive modeling, and deep learning</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/developer-gif-23414225">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhupeddanagolla&label=Profile%20views&color=0e75b6&style=flat" alt="santhupeddanagolla" /> </p>
 
