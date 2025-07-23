@@ -1,7 +1,10 @@
 ## Hi there 👋
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+My name is Santhosh, I'm AIML Student interested in all Python, Data Science & Generative AI 
+
+- 🔭 I’m recently build Breast Cancer Prediction Project 
+- 🌱 I’m currently learning Generative AI
+
 <!--
 **SanthuPeddanagolla/SanthuPeddanagolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
