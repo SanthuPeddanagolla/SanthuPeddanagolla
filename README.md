@@ -8,6 +8,7 @@ My name is Santhosh, I’m an aspiring AI/ML Engineer passionate about building 
 
 ## 🛠️ Technical Skills
 Languages: Python, SQL
+
 ML Tools & Libraries: Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, OpenCV
 Data Visualization: Matplotlib, Seaborn, Plotly
 AI Domains: Classification, NLP, Generative Models, Computer Vision
